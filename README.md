@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  🐍 Python • 📊 Pandas • 🌐 Flask • 🤖 Selenium • 🗄️ SQL
+  🐍 Python • 📊 Pandas • 🌐 Flask • 🤖 Selenium • 🗄️ SQL • ⚛️ REACT
 </div>
 
 <br>
@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="35">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35">
 </div>
 
 <br>
