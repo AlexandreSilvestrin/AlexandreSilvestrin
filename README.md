@@ -1,20 +1,19 @@
 ## 👋 Alexandre Silvestrin
 
-<br>
-
-<div align="center">
+<div align="left">
   Desenvolvedor Python focado em automação, ETL, web scraping e análise de dados.
 </div>
 
 <br>
+<br>
 
-<div align="center">
+<div align="left">
   🐍 Python • 📊 Pandas • 🌐 Flask • 🤖 Selenium • 🗄️ SQL • ⚛️ REACT
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="35">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="35">
@@ -23,9 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35">
 </div>
 
-<br>
+##
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/ale_silvestrin/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
