@@ -14,12 +14,12 @@
 <br>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="35">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35">
+  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35">
+  <img title="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="35">
+  <img title="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="35">
+  <img title="VS Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="35">
+  <img title="Electron" src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" width="35">
+  <img title="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="35">
 </div>
 
 ##
